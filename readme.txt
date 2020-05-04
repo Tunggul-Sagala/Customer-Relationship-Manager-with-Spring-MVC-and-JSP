@@ -1,0 +1,1 @@
+This application is for storing customer database that has CRUD features.
